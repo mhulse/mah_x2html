@@ -1,0 +1,23 @@
+Usage:
+
+----------
+	
+	{exp:mah_x2html}
+		{exp:search:simple_form weblog="my_weblog"}
+			<div><input type="text" name="keywords" id="keywords"></div>
+		{/exp:search:simple_form}
+	{/exp:mah_x2html}
+	
+----------
+
+Please see forum thread for more information:
+
+	http://expressionengine.com/forums/viewthread/124352/
+
+Version 1.0
+******************
+- Initial public release.
+
+Version 2.0
+******************
+- Updated plugin to be 2.0 compatible
